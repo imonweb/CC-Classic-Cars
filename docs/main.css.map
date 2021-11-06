@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,EAGE,+BAFA,SACA,SACA,CAGF,KACE","sources":["webpack://Classic-Cars/./src/css/main.scss"],"sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n  font-family: \"Poppins\", sans-serif;\n}\n\nbody {\n  background-color: salmon;\n}"],"names":[],"sourceRoot":""}
